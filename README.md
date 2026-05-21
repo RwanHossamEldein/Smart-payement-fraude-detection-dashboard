@@ -4,7 +4,7 @@ A Flutter Web dashboard for monitoring and analyzing fraudulent credit card tran
 
 ---
 
-# ✨ Key Features
+#  Key Features
 
 - Real-time transaction monitoring
 - Fraud vs. legitimate transaction visualization
